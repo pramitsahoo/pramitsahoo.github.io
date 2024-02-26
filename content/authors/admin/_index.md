@@ -3,7 +3,7 @@
 title: Pramit Sahoo
 
 # Name pronunciation (optional)
-name_pronunciation: Pramit | প্রমিত | प्रमित 
+# name_pronunciation: Pramit | প্রমিত | प्रमित 
 
 
 # Full name (for SEO)
