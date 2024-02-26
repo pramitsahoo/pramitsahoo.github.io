@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pramit | প্রমিত | प्रमित 
+# title: Pramit | প্রমিত | प्रमित 
 
 # Name pronunciation (optional)
 name_pronunciation: Pramit Sahoo
