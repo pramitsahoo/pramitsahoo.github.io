@@ -1,9 +1,10 @@
 ---
 # Display name
-# title: Pramit | প্রমিত | प्रमित 
+title: Pramit Sahoo
 
 # Name pronunciation (optional)
-name_pronunciation: Pramit Sahoo
+name_pronunciation: Pramit | প্রমিত | प्रमित 
+
 
 # Full name (for SEO)
 first_name: Pramit
