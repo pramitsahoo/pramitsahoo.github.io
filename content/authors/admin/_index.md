@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Pramit is a [Master of Technology (M.Tech) student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/). He is a member of the [Natural Language and Information Processing (NLIP)](https://nlip-lab.github.io/nlip/) Lab led by [Prof.(Dr.)Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). Currently he is working on Document Level Machine Translation using Large Language Models(LLMs).
+I am a [Master of Technology (M.Tech) student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/) and a member of the [Natural Language and Information Processing (NLIP)](https://nlip-lab.github.io/nlip/) Lab led by [Prof.(Dr.)Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). Currently I am working on Document Level Machine Translation using Large Language Models(LLMs).
 {style="text-align: justify;"}
