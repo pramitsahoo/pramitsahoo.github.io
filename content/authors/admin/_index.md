@@ -122,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a [Master of Technology (M.Tech) student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/) and a member of the [Natural Language and Information Processing (NLIP)](https://nlip-lab.github.io/nlip/) Lab led by [Prof. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). My research focuses on Cultural NLP, Machine Translation and Large Language Models.
+I am a [M.Tech. Student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/) and a member of the [Natural Language and Information Processing](https://nlip-lab.github.io/nlip/) Lab led by [Prof. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). My research focuses on Cultural NLP, Machine Translation and Large Language Models.
 
 Currently, I am an LLM Research Intern at [Sony Research India](https://www.sonyresearchindia.com/) Mentored by [Bojun Huang](https://www.linkedin.com/in/bojun-huang-25453173/?originalSubdomain=jp) and [Mohammadi Zaki](https://www.linkedin.com/in/mohammadi-zaki/). My work explores Neural Machine Translation (NMT) and Large Language Models for Southeastern Asian languages. 
 {style="text-align: justify;"}
