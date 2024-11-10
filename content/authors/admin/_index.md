@@ -42,7 +42,7 @@ education:
     #   year: 2012
     - course: M.Tech in Artificial Intelligence
       institution: Indian Institute of Technology Hyderabad
-      year: 2023 - 
+      year: 2023 - 2025
     - course: Bachelor of Pharmacy
       institution: Guru Nanak Institute of Pharmaceutical Science and Technology
       year: 2019 - 2023
@@ -122,5 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a [Master of Technology (M.Tech) student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/) and a member of the [Natural Language and Information Processing (NLIP)](https://nlip-lab.github.io/nlip/) Lab led by [Prof.(Dr.)Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). Currently I am working on Machine Translation for Indic Languages and Empathy in Conversational Systems.
+I am a [Master of Technology (M.Tech) student](https://ai.iith.ac.in/people/students.html) in the [Department of Artificial Intelligence](https://ai.iith.ac.in/) at [Indian Institute of Technology Hyderabad](https://iith.ac.in/) and a member of the [Natural Language and Information Processing (NLIP)](https://nlip-lab.github.io/nlip/) Lab led by [Prof.(Dr.)Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/). My research focuses on Cultural NLP, Machine Translation and Large Language Models.
+
+Currently, I am an LLM Research Intern at [Sony Research India](https://www.sonyresearchindia.com/) Mentored by [Bojun Huang](https://www.linkedin.com/in/bojun-huang-25453173/?originalSubdomain=jp) and [Mohammadi Zaki](https://www.linkedin.com/in/mohammadi-zaki/). My work explores Neural Machine Translation (NMT) and Large Language Models for Southeastern Asian languages. 
 {style="text-align: justify;"}
