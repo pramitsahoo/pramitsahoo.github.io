@@ -32,7 +32,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Natural Language Processing
   - Machine Translation
-  - Large Language Models (LLMs) 
+  - Large Language Models (LLMs)
+  - Culture NLP 
 
 # Education to show in About widget
 education:
